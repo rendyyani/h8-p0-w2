@@ -1,0 +1,99 @@
+1.Program : Newton Second Law
+
+Algoritma
+
+1. Input massa benda dengan satuan (kg)
+2. Input percepatan benda dengan satuan (m/s2)
+3. Nilai resultan gaya (Newton) adalah massa x percepatan benda
+4. tampilkan nilai resultan gaya
+
+
+Pesudocode
+
+INPUT "massa benda" with a value of 600
+INPUT "percepatan benda" with a value of 2
+INPUT "newton" without any value
+
+
+CALCULATE "massa benda" times "percepatan benda
+"
+
+SET "newton" value with calculation result
+
+
+DISPLAY "newton"
+
+
+2.Program : Tahun Kabisat 
+
+Algoritma
+
+1.input tahun
+2.tahun di bagi dengan 4
+3.tampilkan hasil pembagian
+3.jika tahun habis di bagi 4 tampilkan tahun kabisat
+4.jika tidak habis di bagi tampilkan bukan tahun kabisat
+
+ 
+INPUT "year" with any value
+
+Calculate "year" mod 4
+
+DISPLAY "year" value with calculation result
+
+INPUT "remainder" to the result of calculation
+
+IF "remainder" equals to 0
+  
+  DISPLAY "Leap Year"
+
+ELSE
+
+  DISPLAY "Not Leap Year" 
+
+
+3.Program : Laundry Day
+
+Algoritma
+
+1. input jumlah pakaian yang akan di cuci oleh Foxie
+2. masukan pakaian ke dalam mesin cuci
+3. jika jumlah pakaian sudah mencapai 20
+4. mesin cuci dinyalakan
+
+
+INPUT "laundry level" with 0
+
+WHILE "laundry level" = 20
+
+  ADD "laundry level" by 1
+
+DISPLAY "laundry machine on"
+
+
+4. Program : Periksa Kuku
+
+Algoritma
+
+1. guru memeriksa kuku siswa-siswinya
+2. jika murid nya memiliki kuku panjang hasilnya akan dihukum
+3. jika tidak akan mendapatkan pujian
+
+
+START
+ 
+INPUT "long nail"
+
+INPUT "short nail"
+
+WHILE "teacher" check on the students nail
+
+IF "long nail"
+
+  DO "punishment"
+
+ELSE
+
+ DO "compliment"
+
+
