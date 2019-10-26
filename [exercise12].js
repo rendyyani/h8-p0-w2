@@ -1,3 +1,5 @@
+
+
 function konversiMenit(menit) {
     var round = Math.round;
     var sisa = menit % 60;
